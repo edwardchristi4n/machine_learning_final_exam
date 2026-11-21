@@ -1,0 +1,24 @@
+# Data mentah dari dosen: jangan dipublikasikan
+dataset/raw/
+dataset/processed_UTS/
+
+# Virtual environment
+.venv/
+venv/
+
+# Python & Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Streamlit (kalau nanti ada secrets)
+.streamlit/secrets.toml
+
+# Editor & OS
+.vscode/
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# File sementara Word saat laporan dibuka
+~$*.docx
