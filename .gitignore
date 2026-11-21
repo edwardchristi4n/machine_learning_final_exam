@@ -1,6 +1,7 @@
 # Data mentah dari dosen: jangan dipublikasikan
 dataset/raw/
-dataset/processed_UTS/
+# dataset/processed_UTS/ dan processed_UAS/ SENGAJA di-commit (repo Private)
+# agar notebook bisa dijalankan ulang oleh semua anggota
 
 # Virtual environment
 .venv/

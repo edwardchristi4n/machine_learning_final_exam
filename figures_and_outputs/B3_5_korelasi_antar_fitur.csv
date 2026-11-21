@@ -1,0 +1,10 @@
+,nilai
+jumlah pasangan fitur,2016.0
+rata-rata |r|,0.12
+|r| maksimum,0.51
+"pasangan dengan |r| > 0,5",2.0
+"r rata-rata: modalitas sama, skenario beda",0.24
+r rata-rata: opsi dalam skenario yang sama,-0.07
+VIF median,2.48
+VIF maksimum,3.52
+fitur dengan VIF > 5,0.0

@@ -1,0 +1,13 @@
+kondisi,jumlah,keputusan,bagian,baris_dikeluarkan
+IPK kosong: tidak punya IPS maupun IPK,8,"Dikeluarkan, tidak diimputasi",B2.3,8
+IPK kosong: mahasiswa baru angkatan 2026,7,"Dikeluarkan, tidak diimputasi",B2.3,7
+IPK = 0 sebagai kode 'belum ada nilai',4,Sudah NaN sejak UTS C6; dikeluarkan,B2.3,4
+IPK di luar rentang 0-4,0,-,B1.5,0
+Fitur X kosong (NaN),0,-,B2.1,0
+Nilai fitur selain 0/1,0,-,B2.1,0
+Skenario VARK tidak dijawab,0,-,B2.0,0
+Teks jawaban VARK tidak cocok opsi resmi,0,-,B2.0,0
+Duplikat X + IPK,0,-,B2.2,0
+Pola X identik tetapi IPK berbeda,2,Dipertahankan (orang berbeda),B2.2,0
+"IPK ekstrem bawah (< Q1 - 1,5 IQR)",8,Dipertahankan (nilai sah),B2.4,0
+Straightliner (skala 1-5) yang punya IPK,13,Dipertahankan (jawaban VARK bervariasi),B2.5,0

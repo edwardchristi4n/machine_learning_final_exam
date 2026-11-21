@@ -1,0 +1,6 @@
+langkah,baris_sebelum,baris_sesudah,keterangan
+Dataset UTS (setelah cleaning C1-C10),192,192,Titik awal
+Keluarkan responden tanpa IPK,192,173,Target tidak tersedia; tidak diimputasi (B2.3)
+IPK ekstrem bawah,173,173,8 baris dipertahankan; nilai sah (B2.4)
+Straightliner,173,173,13 baris dipertahankan; jawaban VARK bervariasi (B2.5)
+Duplikat X + IPK,173,173,0 duplikat (B2.2)
