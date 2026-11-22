@@ -1,0 +1,6 @@
+langkah,baris_sebelum,baris_sesudah,keterangan
+Dataset UTS (setelah cleaning C1-C10),192,192,Titik awal
+Skenario VARK kosong / teks tidak cocok,192,192,"0 kosong, 0 tidak cocok (A2.0)"
+Label kosong,192,192,0 label kosong (A2.1)
+Pola X identik,192,192,2 baris dipertahankan; orang berbeda (A2.2)
+Straightliner (skala 1-5),192,192,15 baris dipertahankan; jawaban VARK bervariasi (A2.3)
