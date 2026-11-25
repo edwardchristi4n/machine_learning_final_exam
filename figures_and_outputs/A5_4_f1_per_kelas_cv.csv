@@ -1,0 +1,6 @@
+,SVM (tuning),Random Forest (tuning),jumlah di train
+Visual,0.7797,0.7869,30
+Aural,0.7059,0.5938,33
+Read/Write,0.6087,0.4444,25
+Kinesthetic,0.8409,0.8352,41
+Seri,0.4,0.3111,24

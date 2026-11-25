@@ -1,0 +1,4 @@
+kelompok,n,MAE Baseline (rata-rata),MAE Linear Regression,MAE Random Forest (tuning)
+"< 3,00",7,0.6743,0.6092,0.6555
+"3,00 - 3,49",12,0.1275,0.2582,0.1346
+">= 3,50",16,0.3888,0.4183,0.3678

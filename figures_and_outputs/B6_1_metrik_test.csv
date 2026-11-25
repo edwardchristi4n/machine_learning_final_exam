@@ -1,0 +1,5 @@
+,R2 train,R2 test,MAE train,MAE CV (B5),MAE test,RMSE test,tebakan di luar 0-4,MAE test - baseline
+Baseline (rata-rata),0.0,-0.0006,0.329,0.3364,0.3563,0.4417,0.0,0.0
+Linear Regression,0.5877,-0.3435,0.2207,0.5075,0.4016,0.5118,3.0,0.0453
+Random Forest (tuning),0.5133,0.0654,0.2244,0.3361,0.3454,0.4268,0.0,-0.0109
+Ridge (opsional),0.04,0.0325,0.3222,0.3362,0.3504,0.4343,0.0,-0.0059
