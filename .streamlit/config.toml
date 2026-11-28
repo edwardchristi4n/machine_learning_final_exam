@@ -1,0 +1,20 @@
+# Tema aplikasi KelpAdam: navy + oranye, bersih dan profesional.
+# Dibaca dari folder utama proyek saat menjalankan `streamlit run streamlit/app.py`
+# (Streamlit Community Cloud juga membaca file ini dari root repository).
+# Hanya tampilan; tidak memengaruhi model atau prediksi.
+
+[theme]
+base = "light"
+primaryColor = "#D4520C"
+backgroundColor = "#F3F5F9"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#15233B"
+borderColor = "#E3E8F0"
+font = "'Plus Jakarta Sans':https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap"
+baseRadius = "12px"
+
+[theme.sidebar]
+backgroundColor = "#15233B"
+secondaryBackgroundColor = "#22365A"
+textColor = "#DCE3EE"
+borderColor = "#22365A"

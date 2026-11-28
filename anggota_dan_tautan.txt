@@ -1,0 +1,16 @@
+KELOMPOK KelpAdam - UAS Pembelajaran Mesin Gasal 2026/2027
+Framework: VARK (Proyek A Klasifikasi & Proyek B Regresi IPK)
+
+ANGGOTA
+1. Edward Christian Imanuel Tambunan - 240712822
+2. Andreas Dwitara Sidabariba - 240712850
+3. Viriya Anatta Djasawibawa - 240712836
+
+PEMBAGIAN TUGAS
+- Edward  : Pengerjaan code, notebook Regresi dan Klasifikasi serta pemilihan model dan melaksanakan eksperimen tuning pada model. 
+- Viriya  : Pembuatan laporan hasil eksperimen dan mencari referensi untuk pemodelano dan laporan.
+- Andreas : Pencarian referensi laporan, pembuatan streamlit, dan deploy streamlit
+
+TAUTAN
+Repository kode     : https://github.com/edwardchristi4n/machine_learning_final_exam
+Aplikasi Streamlit  : 

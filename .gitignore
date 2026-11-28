@@ -6,20 +6,28 @@ dataset/raw/
 # Virtual environment
 .venv/
 venv/
+.env
 
 # Python & Jupyter
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
 
-# Streamlit (kalau nanti ada secrets)
+# Streamlit: secrets jangan di-commit.
+# .streamlit/config.toml (tema aplikasi) SENGAJA di-commit agar tema ikut terbaca di Streamlit Cloud.
 .streamlit/secrets.toml
 
 # Editor & OS
 .vscode/
+.idea/
 Thumbs.db
 desktop.ini
 .DS_Store
 
-# File sementara Word saat laporan dibuka
+# Log
+*.log
+
+# File sementara Office saat file sedang dibuka (laporan, dataset Excel, slide)
 ~$*.docx
+~$*.xlsx
+~$*.pptx
