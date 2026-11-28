@@ -1,0 +1,6 @@
+,precision,recall,f1-score,support
+Visual,1.0,0.75,0.8571,8
+Aural,0.6667,0.6667,0.6667,9
+Read/Write,0.5714,0.6667,0.6154,6
+Kinesthetic,0.7273,0.8,0.7619,10
+Seri,0.1667,0.1667,0.1667,6

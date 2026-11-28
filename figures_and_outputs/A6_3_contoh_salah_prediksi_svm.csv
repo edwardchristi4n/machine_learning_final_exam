@@ -1,0 +1,15 @@
+ID,label asli,tebakan SVM,tebakan RF,skor V,skor A,skor R,skor K,selisih tertinggi - kedua
+97,Seri,Aural,Aural,4,5,2,5,0
+182,Seri,Read/Write,Visual,6,7,7,0,0
+33,Seri,Read/Write,Read/Write,4,3,6,6,0
+1,Seri,Aural,Aural,12,12,7,0,0
+89,Seri,Kinesthetic,Kinesthetic,9,6,4,9,0
+100,Aural,Seri,Seri,13,14,10,13,1
+122,Aural,Seri,Seri,8,13,8,12,1
+9,Kinesthetic,Seri,Seri,9,12,13,14,1
+194,Read/Write,Aural,Aural,3,11,12,7,1
+66,Read/Write,Kinesthetic,Kinesthetic,4,5,16,15,1
+140,Kinesthetic,Seri,Kinesthetic,9,9,12,13,1
+130,Visual,Seri,Seri,15,12,14,10,1
+126,Visual,Read/Write,Read/Write,10,4,9,5,1
+76,Aural,Kinesthetic,Kinesthetic,5,8,4,6,2

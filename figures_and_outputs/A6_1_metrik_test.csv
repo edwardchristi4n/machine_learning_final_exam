@@ -1,0 +1,4 @@
+,accuracy test,macro-F1 test,macro-F1 CV (A5),jumlah salah (dari 39)
+Baseline (kelas terbanyak),0.2564,0.0816,0.0845,29.0
+SVM (tuning),0.641,0.6136,0.6673,14.0
+Random Forest (tuning),0.6154,0.5883,0.5901,15.0
